@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameRain/GameRain.iml" filepath="$PROJECT_DIR$/.idea/modules/GameRain/GameRain.iml" group="fb/GameRain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="fb/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fb.iml" filepath="$PROJECT_DIR$/.idea/modules/fb.iml" group="fb" />
+    </modules>
+  </component>
+</project>
