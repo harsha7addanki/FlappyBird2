@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gameinfo>
+    <widget
+        type="TEXT"
+        value="hello"
+        />
+    <widget
+        type="TEXT"
+        value="hello"
+    />
+</gameinfo>
